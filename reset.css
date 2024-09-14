@@ -1,0 +1,17 @@
+/* 
+  
+	CÓDIGO RETIRADO DA INTERNET
+
+	MERAMENTE PARA MELHOR EXPLICAÇÃO E ELABORAÇÃO DO TRABALHO 01 DO PROFESSOR FERNANDO
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
